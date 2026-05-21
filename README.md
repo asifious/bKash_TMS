@@ -62,7 +62,7 @@ This project is built for small teams, agents, or merchants who need a simple ad
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/asifious/bKash_TMS.git
 cd <project-folder>
 ```
 
