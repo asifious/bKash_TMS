@@ -63,6 +63,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/asifious/bKash_TMS.git
+```
+```bash
 cd <project-folder>
 ```
 
