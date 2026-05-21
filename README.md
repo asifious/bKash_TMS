@@ -179,7 +179,6 @@ User accounts can:
 - view transaction and invoice reports
 - update profile and password
 
-<img width="1214" height="893" alt="image" src="https://github.com/user-attachments/assets/e00f750b-ba06-4705-a63f-b72585b2960e" />
 
 ## Main Admin Workflows
 
@@ -196,6 +195,8 @@ Admin accounts can:
 - inspect read-only transaction and invoice details
 - update general, currency, payment provider, and invoice settings
 - clear application cache from the settings page
+
+<img width="1214" height="893" alt="image" src="https://github.com/user-attachments/assets/e00f750b-ba06-4705-a63f-b72585b2960e" />
 
 ## Project Structure
 
