@@ -26,6 +26,9 @@ This project is built for small teams, agents, or merchants who need a simple ad
   - admin daily transaction trend by type
 - Shared-hosting friendly Laravel deployment
 
+<img width="1228" height="902" alt="image" src="https://github.com/user-attachments/assets/d93d24cd-5039-4571-af9c-ab8e3305d18e" />
+
+
 ## Tech Stack
 
 - PHP `^7.3|^8.0`
@@ -174,6 +177,8 @@ User accounts can:
 - view transaction and invoice reports
 - update profile and password
 
+<img width="1214" height="893" alt="image" src="https://github.com/user-attachments/assets/e00f750b-ba06-4705-a63f-b72585b2960e" />
+
 ## Main Admin Workflows
 
 Admin accounts can:
@@ -276,26 +281,5 @@ Short version:
 - set `APP_DEBUG=false` in production
 - change the default admin password
 
-## Security Notes
 
-- Do not commit `.env`.
-- Do not use the default admin password in production.
-- Set `APP_DEBUG=false` on live servers.
-- Use HTTPS in production.
-- Keep Composer dependencies updated.
-- Restrict database user privileges where possible.
-- Review uploaded logo/favicon files before enabling public uploads on shared hosting.
 
-## GitHub Checklist
-
-Before publishing this repository:
-
-- confirm `.env` is not committed
-- add production screenshots if desired
-- add a `LICENSE` file if the project should be open source
-- update this README with the final repository URL
-- change default branding/settings if this is for a client
-
-## License
-
-No standalone `LICENSE` file is currently included. Add one before publishing if you want others to use, modify, or redistribute this project.
